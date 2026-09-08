@@ -68,3 +68,5 @@ https://raw.githubusercontent.com/salem-2007/apple-cert-block/main/apple-cert-bl
 
 **文档用途**：学习与技术原理交流  
 **更新日期**：2026年5月
+
+推荐使用https://vsllm.com
